@@ -123,6 +123,10 @@ header .top_m>span{
   cursor: pointer;
 }
 
+.top_r span a{
+  color:#cbcbcb;
+}
+
 header .top_r {
   position: absolute;
   height: 35px;
